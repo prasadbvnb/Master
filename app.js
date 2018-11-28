@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------
-A simple Language Understanding (LUIS) bot for the Microsoft Bot Framework. 
+A simple Language Understanding (LUIS) bot for Azure Bot Service
 -----------------------------------------------------------------------------*/
 
 var request = require('request')
