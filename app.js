@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------
-A simple Language Understanding (LUIS) BOT
+A simple Azure Bot using Language Understanding (LUIS) 
 -----------------------------------------------------------------------------*/
 
 var request = require('request')
